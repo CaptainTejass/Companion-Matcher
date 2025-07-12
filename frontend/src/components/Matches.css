@@ -1,0 +1,31 @@
+.match-container {
+  padding: 10px;
+  margin: 8px 0;
+  background-color: #f0f8ff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.shortlist-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 6px 12px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.25s ease-in-out;
+}
+
+.shortlist-button:hover {
+  transform: scale(1.15);
+  animation: elasticBounce 0.4s ease-in-out;
+}
+
+@keyframes elasticBounce {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.2); }
+  70%  { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}

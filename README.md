@@ -1,4 +1,4 @@
-👥 Companion Matcher
+👥 Companion Matcher(if you want it working i can show it to you that too)
 A full-stack mini project that allows users to find potential companions based on shared interests. Users can create profiles, view matched users, and shortlist people they want to connect with.
 
 📌 Features

@@ -25,17 +25,29 @@ Copy
 Edit
 Companion-Matcher/
 ├── backend/
+
 │   ├── index.js
+
 │   ├── db.js
+
 │   └── routes/
+
 │       └── users.js
+
 ├── frontend/
+
 │   └── src/
+
 │       ├── index.js
+
 │       ├── App.js
+
 │       └── components/
+
 │           ├── Form.js
+
 │           └── Matches.js
+
 🚀 Getting Started
 📁 Clone the Repository
 

@@ -1,4 +1,5 @@
-##👥 Companion Matcher [if you want to see it working i can show it to you ]##
+## 👥 Companion Matcher [if you want to see it working i can show it to you ] ##
+
 A full-stack mini project that allows users to find potential companions based on shared interests. Users can create profiles, view matched users, and shortlist people they want to connect with.
 
 📌 Features
@@ -11,6 +12,7 @@ A full-stack mini project that allows users to find potential companions based o
 ✅ Store matched users in a friends column
 
 ✅ PostgreSQL database used for persistence
+---
 
 🛠 Tech Stack
 Layer	Tech

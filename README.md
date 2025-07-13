@@ -12,7 +12,7 @@ A full-stack mini project that allows users to find potential companions based o
 ✅ Store matched users in a friends column
 
 ✅ PostgreSQL database used for persistence
----
+-----
 
 🛠 Tech Stack
 Layer	Tech
@@ -23,7 +23,7 @@ HTTP Client	Axios
 
 🗂️ Project Structure
 
-
+-----
 
 🚀 Getting Started
 📁 Clone the Repository

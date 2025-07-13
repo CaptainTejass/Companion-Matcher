@@ -1,4 +1,4 @@
-👥 Companion Matcher(if you want to see it working i can show it to you )
+👥 Companion Matcher [if you want to see it working i can show it to you ]
 A full-stack mini project that allows users to find potential companions based on shared interests. Users can create profiles, view matched users, and shortlist people they want to connect with.
 
 📌 Features
@@ -21,30 +21,7 @@ HTTP Client	Axios
 
 🗂️ Project Structure
 
-Companion-Matcher/
-├── backend/
 
-│   ├── index.js
-
-│   ├── db.js
-
-│   └── routes/
-
-│       └── users.js
-
-├── frontend/
-
-│   └── src/
-
-│       ├── index.js
-
-│       ├── App.js
-
-│       └── components/
-
-│            ├── Form.js
-
-│            └── Matches.js
 
 🚀 Getting Started
 📁 Clone the Repository
@@ -69,15 +46,15 @@ Configure PostgreSQL connection in db.js:
 
 const pool = new Pool({
 
-  user: 'your_pg_user',
+    user: 'your_pg_user',
   
-  host: 'localhost',
+    host: 'localhost',
   
-  database: 'postgres',
+    database: 'postgres',
   
-  password: 'your_pg_password',
+    password: 'your_pg_password',
   
-  port: 5432,
+    port: 5432,
 });
 
 Start the backend server:
@@ -113,11 +90,11 @@ Request Body:
 
 
 {
-  "name": "Amit",
+   "name": "Amit",
   
-  "age": 23,
+   "age": 23,
   
-  "interests": ["music", "tech", "sports"]
+   "interests": ["music", "tech", "sports"]
 }
 🔍 GET /users/matches/:username
 

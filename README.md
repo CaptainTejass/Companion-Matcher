@@ -12,13 +12,17 @@ A full-stack mini project that allows users to find potential companions based o
 ✅ Store matched users in a friends column
 
 ✅ PostgreSQL database used for persistence
------
+
+----
 
 🛠 Tech Stack
-Layer	Tech
+
 Frontend	React.js
+
 Backend	Node.js, Express.js
+
 Database	PostgreSQL
+
 HTTP Client	Axios
 
 🗂️ Project Structure
@@ -26,11 +30,14 @@ HTTP Client	Axios
 -----
 
 🚀 Getting Started
+
 📁 Clone the Repository
 
 git clone https://github.com/CaptainTejass/Companion-Matcher.git
 
 cd Companion-Matcher
+
+----
 
 ⚙️ Backend Setup
 Navigate to the backend directory:
@@ -39,7 +46,6 @@ Navigate to the backend directory:
 cd backend
 
 Install dependencies:
-
 
 npm install
 
@@ -61,10 +67,11 @@ const pool = new Pool({
 
 Start the backend server:
 
-
 node index.js
 
 The backend will run on http://localhost:3001
+
+----
 
 🌐 Frontend Setup
 

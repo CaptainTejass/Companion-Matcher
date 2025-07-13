@@ -91,12 +91,13 @@ npm start
 
 The frontend will run on http://localhost:3000
 
+----
+
 🧪 API Routes Summary
 ➕ POST /users
 Create a new user profile.
 
 Request Body:
-
 
 {
    "name": "Amit",
@@ -118,6 +119,8 @@ Request Body:
 {
   "matchName": "Sanya"
 }
+
+----
 
 screenshot : 
 ->frontend/public/matcher.jpg

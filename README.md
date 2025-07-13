@@ -52,15 +52,18 @@ Companion-Matcher/
 git clone https://github.com/CaptainTejass/Companion-Matcher.git
 
 cd Companion-Matcher
+
 ⚙️ Backend Setup
 Navigate to the backend directory:
 
 
 cd backend
+
 Install dependencies:
 
 
 npm install
+
 Configure PostgreSQL connection in db.js:
 
 
@@ -85,6 +88,7 @@ node index.js
 The backend will run on http://localhost:3001
 
 🌐 Frontend Setup
+
 Navigate to the frontend directory:
 
 

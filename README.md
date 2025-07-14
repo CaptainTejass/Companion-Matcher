@@ -49,7 +49,7 @@ Install dependencies:
 
 npm install
 
-Configure PostgreSQL connection in db.js:
+Configure PostgreSQL connection in db.js  i have already inserted my database info in the code only to make things easy for you(not good practice):
 
 
 const pool = new Pool({

@@ -5,7 +5,7 @@ A full-stack mini project that allows users to find potential companions based o
 📌 Features
 ✅ Create a user profile (name, age, interests)
 
-✅ Retrieve matches based on shared interests (minimum 2)
+✅ Retrieve matches based on shared interests (minimum 2),
 
 ✅ Shortlist users to build a connections list
 
